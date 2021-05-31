@@ -13,3 +13,8 @@ Apache Superset is an open-source software cloud-native application for data exp
 # Docker  
 - Simply put, a container is simply another process on your machine that has been isolated from all other processes on the host machine.  
 - An image is a read-only template with instructions for creating a Docker container.  
+
+# Using a different github id for a local repo  
+- git remote set-url origin https://USERNAME@github.com/USERNAME/PROJECTNAME.git
+- git config user.name USERNAME 
+- git config user.name USERNAME

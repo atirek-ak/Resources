@@ -11,6 +11,8 @@
 - https://docs.docker.com/get-started/overview/  
 - **Writing a Dockerfile:** https://www.youtube.com/watch?v=2lU9zdrs9bM
 - **3 hr. video that has everything:** https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNanaTechWorldwithNana
+- **Running Ubuntu on Mac/Windows:** https://medium.com/@hudsonmendes/docker-have-a-ubuntu-development-machine-within-seconds-from-windows-or-mac-fd2f30a338e4 
+- **Docker commands cheat sheet:** https://phoenixnap.com/kb/wp-content/uploads/2021/04/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpg
 
 # JupyterHub  
 - https://discourse.jupyter.org/t/jupyter-notebook-vs-jupyter-lab-vdf-jupyterhub-whats-the-diff/475  
@@ -38,3 +40,4 @@
 # Misc.  
 - https://shashvatshukla.medium.com/framework-vs-library-vs-platform-vs-api-vs-sdk-vs-toolkits-vs-ide-50a9473999db  
 - https://www.geeksforgeeks.org/functional-programming-paradigm/  
+- https://unix.stackexchange.com/questions/237152/purpose-of-bin-directory
