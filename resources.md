@@ -10,7 +10,7 @@
 # Docker  
 - https://geekflare.com/docker-vs-virtual-machine/  
 - https://medium.com/@BeNitinAgarwal/understanding-the-docker-internals-7ccb052ce9fe  
-- https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504 (must read)  
+- https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504 (understanding the concepts behind docker)  
 - https://docs.docker.com/get-started/overview/  
 - **Writing a Dockerfile:** https://www.youtube.com/watch?v=2lU9zdrs9bM
 - **3 hr. video that has everything:** https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNanaTechWorldwithNana
