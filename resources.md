@@ -4,6 +4,9 @@
 - https://towardsdatascience.com/a-complete-introduction-to-apache-airflow-b7e238a33df  
 - https://blog.clairvoyantsoft.com/airflow-service-level-agreement-sla-2f3c91cd84cc  
 
+# Spark  
+- https://www.youtube.com/watch?v=V-e3Si8K0qE&ab_channel=AIEngineering
+
 # Docker  
 - https://geekflare.com/docker-vs-virtual-machine/  
 - https://medium.com/@BeNitinAgarwal/understanding-the-docker-internals-7ccb052ce9fe  
